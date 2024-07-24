@@ -10,7 +10,11 @@ Proyecto de Unity basado en el proyecto de código abierto [Wave Function Collap
 
 #### Jugar
 
-Proximamente en itch.io
+Descargá el juego desde Itch.io: [https://alvaropd.itch.io/procediverso](https://alvaropd.itch.io/procediverso)
+
+Controles: WASD para caminar, Shift para correr, Ctrl para jetpack. R para reiniciar la escena y reconstruir el mundo, T para cambiar de escena, Y para salir.
+
+Controles VR: Joystick derecho para girar cámara, A/one derecho para iniciar, gatillo inferior derecho jetpack. Joystick izquierdo para caminar, gatillo inferior izquierdo para correr, X/one izquierdo para reiniciar.
 
 ## Créditos
 
