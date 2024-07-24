@@ -4,19 +4,17 @@ Gestada en el marco de la cursada de de Taller Diseño Multimedial 5, en la Facu
 
 Siempre con el foco en los en los entornos virtuales y cómo nos vinculamos con ellos, se desarrolló para el medio de realidad virtual a través de Unity, para potenciar su factor inmersivo al tratarse de una experiencia de exploración surrealista.
 
-Lee mas sobre Procediverso y su desarrollo [AQUI](https://procediweb.netlify.app/)
+Lee mas sobre Procediverso y su desarrollo [AQUI](https://procediweb.netlify.app/) o en mi [PORTFOLIO](https://alvaroperezdominguezportfolio.netlify.app/001-procediverso)
 
-Proyecto de Unity basado en el proyecto de código abierto [Wave Function Collapse](https://github.com/marian42/wfc) de Marian Kleineberg.
+Proyecto de Unity basado en el proyecto de código abierto [Wave Function Collapse](https://github.com/marian42/wavefunctioncollapse) de Marian Kleineberg.
 
 #### Jugar
 
-Download the game on Itch.io: [https://marian42.itch.io/wfc](https://marian42.itch.io/wfc)
-
-Keyboard Controls: WASD for walking, Space to jump, Shift to run, Ctrl to jetpack.
+Proximamente en itch.io
 
 ## Créditos
 
-Este proyecto está basado en [Wave Function Collapse](https://github.com/marian42/wfc) creado por Marian Kleineberg.
+Este proyecto está basado en [Wave Function Collapse](https://marian42.de/article/wfc/) creado por Marian Kleineberg.
 
 ### Licencia Original
 
